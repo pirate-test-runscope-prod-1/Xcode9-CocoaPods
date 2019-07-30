@@ -628,6 +628,7 @@
 				DEVELOPMENT_TEAM = 5Z97G9NZQ6;
 				INFOPLIST_FILE = New/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				LD_VERIFY_BITCODE = NO;
 				PRODUCT_BUNDLE_IDENTIFIER = meirav.bowstreet.ios.New;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "e3d86a56-98f6-4945-a791-0b894626ef95";
@@ -647,6 +648,7 @@
 				DEVELOPMENT_TEAM = 5Z97G9NZQ6;
 				INFOPLIST_FILE = New/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				LD_VERIFY_BITCODE = NO;
 				PRODUCT_BUNDLE_IDENTIFIER = meirav.bowstreet.ios.New;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "e3d86a56-98f6-4945-a791-0b894626ef95";
